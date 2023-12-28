@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Any Kind Of Python Based on Project**
 
-- 💬 Ask me about **My-SQL,PL-SQL,Python**
+- 💬 Ask me about **Java-Script,CSS,HTML,My-SQL,PL-SQL, Python**
 
 - 📫 How to reach me **aishikbarua07@gamil.com**
 
