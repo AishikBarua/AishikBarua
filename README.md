@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishik Barua</h1>
-<h3 align="center">Passionate About Delivering High-Quality Software: SQA Engineer</h3>
+<h3 align="center">Passionate About Frontend Software Developer</h3>
 <img aligm="left" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishikbarua&label=Profile%20views&color=0e75b6&style=flat" alt="aishikbarua" /> </p>
