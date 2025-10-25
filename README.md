@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@barua_aishik" target="blank"><img src="https://img.shields.io/twitter/follow/@barua_aishik?logo=twitter&style=for-the-badge" alt="@barua_aishik" /></a> </p>
 
-- 🔭 I’m currently working on **Sport Management System**
+- 🔭 I’m currently working on **NihonLab**
 
 - 🌱 I’m currently learning **React Native**
 
