@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Fast API**
 
-- 👯 I’m looking to collaborate on **Any Kind Of Python Based on Project**
+- 👯 I’m looking to collaborate on **Any Kind Of Python Based or AI Based Project**
 
 - 💬 Ask me about **Java-Script,CSS,HTML,My-SQL,PL-SQL, Python**
 
