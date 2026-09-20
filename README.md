@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java-Script,CSS,HTML,My-SQL,PL-SQL, Python**
 
-- 📫 How to reach me **aishikbarua07@gamil.com**
+- 📫 How to reach me **aishikbarua07@gmail.com**
 
 - ⚡ Fun fact **I think I'm Funny**
 
